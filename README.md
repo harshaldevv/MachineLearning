@@ -1,4 +1,6 @@
-# MachineLearning && Deep Learning work / knowledge / code that ive done . I always wish to learn more and strive for me
+# MachineLearning && Deep Learning 
+MachineLearning && Deep Learning work / knowledge / code that ive done . I always wish to learn more and strive for me
+
 I delved into the field of Machine Learning and Deep Learning during the lockdown period.
 For self projects, I've successfully applied ML models on Breast Cancer datasets etc, Deep Learning models for image classification. 
 
